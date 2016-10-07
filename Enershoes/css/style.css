@@ -1,0 +1,208 @@
+body,
+html {
+    color: #F;
+}
+body {
+    background-color: #CaCaCa!important;
+}
+a {
+    color: #FF0!important;
+}
+.area a{
+    color: #ddd60d !important;
+}
+.black {
+    background-color: #000!important;
+}
+.black-footer {
+    background-color: rgba(0, 0, 0, 0.1)!important;
+}
+.agray {
+    background-color: #EEEEEE!important;
+}
+.ablue {
+    background-color: #fff!important;
+}
+.alblue {
+    background-color: #fff!important;
+}
+.alcaramel {
+    background-color: #FFF!important;
+}
+.aover {
+    background-color: rgba(51, 51, 51, 0.2);
+}
+.acaramel-text {
+    color: #E0BB8E!important;
+}
+.ablue-text {
+    color: #fff!important;
+}
+.ablue-text.lighten-4 {
+    color: #fff!important;
+}
+hr {
+    border-bottom: 0;
+    border-right: 0;
+    border-top: 1px solid #000;
+}
+.agray h4,
+.alcaramel h4 {
+    color: #846C63;
+}
+.btn {
+    margin: 2px;
+}
+.btn,
+.btn-large {
+    background-color: #86A8A8!important;
+    color: white!important;
+}
+.btn:hover,
+.btn-large:hover {
+    background-color: #E0BB8E!important;
+}
+.brown-text.text-darken-4 {
+    color: #fff!important;
+}
+#logo-container {}.brand-logo {
+    color: #fff!important;
+    font-family: 'Abel', sans-serif;
+    text-transform: uppercase;
+    left: 50px;
+}
+
+
+.icon {
+    position: absolute;
+    padding-top: 13px;
+    margin-right: 5px;
+}
+nav ul a:hover {
+    background-color: #FF0;
+    color: black!important;
+}
+.card .card-title {
+    font-size: 20px;
+}
+.card-image {
+    overflow: hidden;
+    width: 100%;
+    position: relative;
+}
+.card-image:before {
+    content: '';
+    display: block;
+    padding-bottom: 75%;
+}
+.team-member .card-image:before {
+    padding-bottom: 100%;
+}
+.card-image>* {
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+}
+.card-image>img {
+    bottom: auto;
+    right: auto;
+    width: 100%;
+    height: auto!important;
+}
+.card .card-content {
+    min-height: 105px;
+}
+.card .card-content .card-title {
+    line-height: 22px;
+    padding-top: 10px;
+}
+.title {
+    color: #846C63!important;
+    text-transform: uppercase;
+}
+.card-title {
+    text-transform: uppercase;
+}
+.card .card-action a {
+    color: white!important;
+}
+.detail-title {
+    font-weight: 700;
+    display: block;
+}
+
+nav.white .breadcrumb:before {
+    color: inherit!important;
+}
+.page-footer h5 {
+    text-transform: uppercase;
+}
+@media only screen and (min-width: 601px) {
+    .parallax-container {
+        min-height: 420px;
+    }
+}
+@media only screen and (max-width: 600px) {
+    .container {
+        padding: 0 0rem;
+    }
+    ul.side-nav a {
+        font-size: 36px;
+        text-transform: uppercase;
+    }
+    .parallax-container {
+        min-height: 275px;
+    }
+}
+nav ul a,
+nav .brand-logo {
+    color: #444;
+}
+p {
+    line-height: 2rem;
+}
+.button-collapse {
+    color: #26a69a;
+}
+.parallax-container {
+    line-height: 0;
+    height: auto;
+    color: rgba(255, 255, 255, .9);
+}
+.parallax-container .section {
+    width: 100%;
+}
+
+@media only screen and (max-width: 992px) {
+    .parallax-container .section {
+        position: absolute;
+        top: 40%;
+    }
+    #index-banner .section {
+        top: 10%;
+    }
+}
+.icon-block {
+    padding: 0 15px;
+}
+footer.page-footer {
+    margin: 0;
+}
+
+
+.sub-title {
+    text-decoration: underline;
+    font-weight: 700;
+    margin: 7px 0;
+}
+
+.card.card-small .card-content {
+    text-align: center;
+}
+.card.card-small .card-title {
+    display: block;
+    font-size: 16px;
+    margin-top: 0px;
+}
